@@ -23,6 +23,6 @@ This extruder based on JaredC01 Galileo extruder share same componants (Bom) so 
 
 ## Appreciate my work ?
 
-buy me a coffee 
+buy a coffee  for original author
 https://www.paypal.com/donate/?hosted_button_id=9EL8CEDVY28DA
 thank you and happy printing 
